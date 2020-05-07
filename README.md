@@ -6,5 +6,5 @@
 - 使用已实现的接口和布局实现（适用于新手练习）
 - 微信小程序API官方文档：https://developers.weixin.qq.com/miniprogram/dev/api/
 
-![Image](https://github.com/ProgrammerAjun/bilibiliApplet/styles/image/readme.png)
 
+![Image](https://github.com/ProgrammerAjun/bilibiliApplet/blob/master/styles/image/readme.png)
